@@ -20,6 +20,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 24,
+        "Benefit": 43
       }
     ],
     [
@@ -42,6 +47,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 23,
+        "Benefit": 41
       }
     ],
     [
@@ -64,6 +74,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 22,
+        "Benefit": 39
       }
     ],
     [
@@ -86,6 +101,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 21,
+        "Benefit": 37
       }
     ],
     [
@@ -108,6 +128,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 20,
+        "Benefit": 35
       }
     ],
     [
@@ -130,6 +155,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 19,
+        "Benefit": 33
       }
     ],
     [
@@ -152,6 +182,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 18,
+        "Benefit": 31
       }
     ],
     [
@@ -174,6 +209,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 17,
+        "Benefit": 29
       }
     ],
     [
@@ -196,6 +236,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 16,
+        "Benefit": 27
       }
     ],
     [
@@ -218,6 +263,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 15,
+        "Benefit": 25
       }
     ],
     [
@@ -240,6 +290,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 14,
+        "Benefit": 23
       }
     ],
     [
@@ -262,6 +317,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 13,
+        "Benefit": 21
       }
     ],
     [
@@ -284,6 +344,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 12,
+        "Benefit": 19
       }
     ],
     [
@@ -306,6 +371,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 11,
+        "Benefit": 17
       }
     ],
     [
@@ -328,6 +398,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 10,
+        "Benefit": 15
       }
     ],
     [
@@ -350,6 +425,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 9,
+        "Benefit": 13
       }
     ],
     [
@@ -372,6 +452,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 8,
+        "Benefit": 11
       }
     ],
     [
@@ -394,6 +479,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 7,
+        "Benefit": 9
       }
     ],
     [
@@ -416,6 +506,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 6,
+        "Benefit": 7
       }
     ],
     [
@@ -438,13 +533,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 5,
+        "Benefit": 5
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -1,
-        "Benefit": 8
+        "Benefit": 9
       },
       {
         "Name": "Herbal Tea",
@@ -460,13 +560,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 4,
+        "Benefit": 3
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -2,
-        "Benefit": 6
+        "Benefit": 8
       },
       {
         "Name": "Herbal Tea",
@@ -482,13 +587,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 3,
+        "Benefit": 1
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -3,
-        "Benefit": 4
+        "Benefit": 7
       },
       {
         "Name": "Herbal Tea",
@@ -504,13 +614,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 2,
+        "Benefit": 0
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -4,
-        "Benefit": 2
+        "Benefit": 6
       },
       {
         "Name": "Herbal Tea",
@@ -526,13 +641,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 1,
+        "Benefit": 0
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -5,
-        "Benefit": 0
+        "Benefit": 5
       },
       {
         "Name": "Herbal Tea",
@@ -548,13 +668,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": 0,
+        "Benefit": 0
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -6,
-        "Benefit": 0
+        "Benefit": 4
       },
       {
         "Name": "Herbal Tea",
@@ -570,13 +695,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": -1,
+        "Benefit": 0
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -7,
-        "Benefit": 0
+        "Benefit": 3
       },
       {
         "Name": "Herbal Tea",
@@ -592,13 +722,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": -2,
+        "Benefit": 0
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -8,
-        "Benefit": 0
+        "Benefit": 2
       },
       {
         "Name": "Herbal Tea",
@@ -614,13 +749,18 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": -3,
+        "Benefit": 0
       }
     ],
     [
       {
         "Name": "Doliprane",
         "ExpiresIn": -9,
-        "Benefit": 0
+        "Benefit": 1
       },
       {
         "Name": "Herbal Tea",
@@ -636,6 +776,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": -4,
+        "Benefit": 0
       }
     ],
     [
@@ -658,6 +803,11 @@
         "Name": "Magic Pill",
         "ExpiresIn": 15,
         "Benefit": 40
+      },
+      {
+        "Name": "Dafalgan",
+        "ExpiresIn": -5,
+        "Benefit": 0
       }
     ]
   ]

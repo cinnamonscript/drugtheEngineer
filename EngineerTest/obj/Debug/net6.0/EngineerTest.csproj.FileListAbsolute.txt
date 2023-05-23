@@ -1,0 +1,15 @@
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\bin\Debug\net6.0\EngineerTest.exe
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\bin\Debug\net6.0\EngineerTest.deps.json
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\bin\Debug\net6.0\EngineerTest.runtimeconfig.json
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\bin\Debug\net6.0\EngineerTest.dll
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\bin\Debug\net6.0\EngineerTest.pdb
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.csproj.AssemblyReference.cache
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.AssemblyInfoInputs.cache
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.AssemblyInfo.cs
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.csproj.CoreCompileInputs.cache
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.dll
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\refint\EngineerTest.dll
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.pdb
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\EngineerTest.genruntimeconfig.cache
+C:\Users\simmo\Documents\GitHub\myptest\EngineerTest\obj\Debug\net6.0\ref\EngineerTest.dll
