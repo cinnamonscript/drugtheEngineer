@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj": {}
+    "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj": {
+    "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
+        "projectUniqueName": "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
         "projectName": "EngineerTest",
-        "projectPath": "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
+        "projectPath": "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
         "packagesPath": "C:\\Users\\simmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\obj\\",
+        "outputPath": "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simmo\\AppData\\Roaming\\NuGet\\NuGet.Config",

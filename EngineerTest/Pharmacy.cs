@@ -29,16 +29,31 @@ public class Pharmacy : IPharmacy
                 _drugs[i].Benefit > 0 // Benefit does not go negative
             )
             {
-                // Dafalgan Decreases Benefit by 2
-                if (_drugs[i].Name == "Dafalgan" && _drugs[i].Benefit > 1) // Benefit does not go negative
+                // Dafalgan Decreases Benefit by 2x
+                if (_drugs[i].Name == "Dafalgan") // Benefit does not go negative
                 {
-                    _drugs[i].Benefit -= 2;
+                    if (_drugs[i].ExpiresIn > 0 && _drugs[i].Benefit > 1)
+                    {
+                        _drugs[i].Benefit -= 2; // Before Expiration, Dafalgan Benefit decreases by 2
+                    }
+                    else if (_drugs[i].Benefit > 3)
+                    {
+                        _drugs[i].Benefit -= 4; // After Expiration, Dafalgan Benefit decreases by 4
+                    }
+                    else
+                    {
+                        _drugs[i].Benefit = 0; // If After Expiration, and Benefit is 3 or less, Benefit set to 0
+                    }
                 }
 
-                // All other Drugs Decrease Benefit by 1, also assume if Dafalgan Benefit = 1 that it will degrade to 0
+                // All other Drugs Decrease Benefit, if Dafalgan Benefit = 1 that it will degrade to 0
                 else
                 {
-                    _drugs[i].Benefit--;
+                    if (_drugs[i].ExpiresIn > 0)
+                    {
+                        _drugs[i].Benefit--; // Before Expiration, Dafalgan Benefit decreases by 1
+                    }
+                    else { _drugs[i].Benefit -= 2; } // After Expiration, Dafalgan Benefit decreases by 2
                 }
             }
 
@@ -56,18 +71,16 @@ public class Pharmacy : IPharmacy
                     // "Fervex" increases in Benefit, x2 when <11d, x3 when <6d.
                     if (_drugs[i].Name == "Fervex")
                     {
-                        if (_drugs[i].ExpiresIn < 11)
+                        if (_drugs[i].ExpiresIn < 11 && _drugs[i].Benefit < 49)
                         {
                             _drugs[i].Benefit++;
                         }
 
-                        if (_drugs[i].ExpiresIn < 6)
+                        if (_drugs[i].ExpiresIn < 6 && _drugs[i].Benefit < 48)
                         {
                             _drugs[i].Benefit++;
                         }
-
                     }
-
                     // "Herbal Tea" increases in Benefit, 2x faster after expiration date.
                     if (_drugs[i].Name == "Herbal Tea" && _drugs[i].Benefit < 49)
                     {

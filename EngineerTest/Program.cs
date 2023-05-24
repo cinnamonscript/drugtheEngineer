@@ -1,16 +1,14 @@
 ﻿using System.Text.Json;
 using EngineerTest;
 
-
-
 try
 {
     var drugs = new[] {
         new Drug("Doliprane", 20, 30),
         new Drug("Herbal Tea", 10, 5),
-        new Drug("Fervex", 12, 35),
+        new Drug("Fervex", 12, 24),
         new Drug("Magic Pill", 15, 40),
-        new Drug("Dafalgan", 25, 45)
+        new Drug("Dafalgan", 20, 45)
     };
     IPharmacy pharmacy = new Pharmacy(drugs);
 
