@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
+      "projectUniqueName": "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
       "projectName": "EngineerTest",
-      "projectPath": "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
+      "projectPath": "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\EngineerTest.csproj",
       "packagesPath": "C:\\Users\\simmo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\obj\\",
+      "outputPath": "C:\\Users\\simmo\\Documents\\GitHub\\myptest\\EngineerTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

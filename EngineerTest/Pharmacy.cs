@@ -71,12 +71,12 @@ public class Pharmacy : IPharmacy
                     // "Fervex" increases in Benefit, x2 when <11d, x3 when <6d.
                     if (_drugs[i].Name == "Fervex")
                     {
-                        if (_drugs[i].ExpiresIn < 11 && _drugs[i].Benefit < 49)
+                        if (_drugs[i].ExpiresIn < 11 && _drugs[i].Benefit < 50)
                         {
                             _drugs[i].Benefit++;
                         }
 
-                        if (_drugs[i].ExpiresIn < 6 && _drugs[i].Benefit < 48)
+                        if (_drugs[i].ExpiresIn < 6 && _drugs[i].Benefit < 49)
                         {
                             _drugs[i].Benefit++;
                         }

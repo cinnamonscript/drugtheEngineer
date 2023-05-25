@@ -14,7 +14,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 11,
-        "Benefit": 50
+        "Benefit": 25
       },
       {
         "Name": "Magic Pill",
@@ -41,7 +41,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 10,
-        "Benefit": 50
+        "Benefit": 26
       },
       {
         "Name": "Magic Pill",
@@ -68,7 +68,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 9,
-        "Benefit": 50
+        "Benefit": 28
       },
       {
         "Name": "Magic Pill",
@@ -95,7 +95,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 8,
-        "Benefit": 50
+        "Benefit": 30
       },
       {
         "Name": "Magic Pill",
@@ -122,7 +122,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 7,
-        "Benefit": 50
+        "Benefit": 32
       },
       {
         "Name": "Magic Pill",
@@ -149,7 +149,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 6,
-        "Benefit": 50
+        "Benefit": 34
       },
       {
         "Name": "Magic Pill",
@@ -176,7 +176,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 5,
-        "Benefit": 50
+        "Benefit": 36
       },
       {
         "Name": "Magic Pill",
@@ -203,7 +203,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 4,
-        "Benefit": 50
+        "Benefit": 39
       },
       {
         "Name": "Magic Pill",
@@ -230,7 +230,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 3,
-        "Benefit": 50
+        "Benefit": 42
       },
       {
         "Name": "Magic Pill",
@@ -257,7 +257,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 2,
-        "Benefit": 50
+        "Benefit": 45
       },
       {
         "Name": "Magic Pill",
@@ -284,7 +284,7 @@
       {
         "Name": "Fervex",
         "ExpiresIn": 1,
-        "Benefit": 50
+        "Benefit": 48
       },
       {
         "Name": "Magic Pill",
