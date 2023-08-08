@@ -1,10 +1,6 @@
-# MYP Take-Home Test Specification
-
-You are a new developer in the team, and your first job is to add a feature to an old existing piece of code.
-
 ## System specifications
 
-Hi and welcome to the team. We are in the future, and MYP have extended its activities by opening a pharmacy. Your task is to add a new feature to our system so that we can begin distributing a new drug. 
+Hi and welcome to the team. We are in the future and have extended activities by opening a pharmacy. Your task is to add a new feature to our system so that we can begin distributing a new drug. 
 
 First an introduction to our system:
 
